@@ -1,0 +1,11 @@
+public class Operaciones{
+  public static void main(String args[]){
+   int n1 = 4
+   int n2 = 4
+   int n3 = 4
+
+   int re = n1 + n2 + n3 / 4
+
+   System.out.println("El resultado es: " +re);
+ }
+}
